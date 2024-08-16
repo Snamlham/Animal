@@ -1,4 +1,8 @@
 cow
+feature2
+
+
 hen
+ main
 dog
 
